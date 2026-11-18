@@ -1,0 +1,13 @@
+.packages/
+tmp/
+__pycache__/
+*.pyc
+.venv/
+output/tiles/
+data/ne_10m_coastline.geojson
+cache_map_tiles.py
+output/github-created.jpg
+output/tiles/
+cache_map_tiles.py
+data/ne_10m_coastline.geojson
+output/github-created.jpg

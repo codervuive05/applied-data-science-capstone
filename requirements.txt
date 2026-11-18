@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+folium
+dash
+plotly
+reportlab
+pypdf
+pymupdf
+lxml
